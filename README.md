@@ -57,6 +57,7 @@ Access to D-Pro_WHATSAPP subcorpus can be requested by contacting the owners of 
 
 ## Cite
 If you find this corpus useful, please cite the following article:
+
 S. Brenna, E. Jezek, B. Magnini. Investigating Proactivity in Task-Oriented Dialogues. Dialogue & Discourse 16(1) 31-66. To be published online 03/2025.
 ```bibtex
 @article{brenna2025investigating,
