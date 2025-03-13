@@ -47,10 +47,25 @@ Utterances indicating failure to achieve a dialogue goal are marked with a "fail
 ### Turn Adjacency Annotation
 To capture the conversational context of proactivity, we analyze the relationship between a proactive utterance and its preceding turn. If the previous turn provides sufficient context to justify proactivity, the proactive utterance is marked with the "adjacent" tag. If longer dependencies can be found with the previous context, the proactive utterance is non adjacent.
 
+## D-Pro WhatsApp Distribution
+Access to D-Pro_WHATSAPP subcorpus can be requested by contacting the owners of the The Italian Whatsapp Corpus at langage@uni-potsdam.de (https://www.uni-potsdam.de/en/la-bank/digital-communication/italian-whatsapp-corpus).
+
 ## Contributors
 - Sofia Brenna (Free University of Bozen-Bolzano, FBK - Fondazione Bruno Kessler)
 - Elisabetta Jezek (Univerity of Pavia)
 - Bernardo Magnini (FBK - Fondazione Bruno Kessler)
 
 ## Cite
+If you find this corpus useful, please cite the following article:
 S. Brenna, E. Jezek, B. Magnini. Investigating Proactivity in Task-Oriented Dialogues. Dialogue & Discourse 16(1) 31-66. To be published online 03/2025.
+```bibtex
+@article{brenna2025investigating,
+  title={Investigating Proactivity in Task-Oriented Dialogues},
+  author={Brenna, Sofia and Jezek, Elisabetta, and Magnini, Bernardo},
+  journal={Dialogue \& Discourse},
+  volume={16},
+  number={1},
+  pages={31--66},
+  year={2025}
+}
+```
