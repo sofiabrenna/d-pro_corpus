@@ -66,6 +66,7 @@ If you find this corpus useful, please cite the following article:
   volume={16},
   number={1},
   pages={31--67},
+  editor={Manfred Stede},
   year={2025}
 }
 ```
