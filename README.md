@@ -58,6 +58,8 @@ Access to D-Pro_WHATSAPP.json can be requested by contacting the owners of the T
 ## Cite
 If you find this corpus useful, please cite the following article:
 
+https://journals.uic.edu/ojs/index.php/dad/article/view/13603
+
 ```bibtex
 @article{brenna2025investigating,
   title={Investigating Proactivity in Task-Oriented Dialogues},
