@@ -70,4 +70,4 @@ If you find this corpus useful, please cite the following article:
   year={2025}
 }
 ```
-S. Brenna, E. Jezek, B. Magnini. Investigating Proactivity in Task-Oriented Dialogues. Dialogue & Discourse 16(1) 31-67. To be published online 03/2025.
+S. Brenna, E. Jezek, B. Magnini. Investigating Proactivity in Task-Oriented Dialogues. Dialogue & Discourse 16(1) 31-67. Published online 03/2025.
